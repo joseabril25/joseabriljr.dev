@@ -14,6 +14,42 @@ export interface Work {
 
 export const work = [
   {
+    title: "Caléna",
+    role: "CTO",
+    description: "I was hired as a CTO to help the company with their digital transformation. I was tasked to build and design the architecture of the whole system including web, mobile, APIs and backend. I was responsible for the overall technology strategy to support business objectives.",
+    link: "https://calena.com.au/",
+    logo: "/vercel-logo.svg",
+    logoWidth: 13,
+    logoHeight: 11,
+    dates: 'Dec 2023 - May 2024',
+    desc: [
+      'Designed the whole system architecture.',
+      'Developed the web app dashboard using Next.js and Material UI.',
+      'Developed the API using NestJS.',
+      'Designed and developed the database using MongoDB.',
+      "Developed the mobile app using React Native and Tailwind CSS.",
+      'Deployed the app to AWS.'
+    ],
+    projects: [
+      {
+        project: 'Gaming Hub Internal Tools',
+        link: ''
+      },
+    ],
+    skills: [
+      'Next.js',
+      'Material UI',
+      'NestJS',
+      'MongoDB',
+      'React Native',
+      'Tailwind CSS',
+      'AWS',
+      'S3',
+      'EC2',
+      'RDS',
+    ]
+  },
+  {
     title: "GamingHub",
     role: "Senior Full Stack Developer",
     description: "After Royal Labs, left the company when the other co-founder decided to pivot the company to a different direction. I decided to join a gaming company called GamingHub, a platform that connects online  casinos to players. My father referred me to the company, and I was hired as a full stack developer.",
@@ -34,6 +70,16 @@ export const work = [
         project: 'Gaming Hub Internal Tools',
         link: ''
       },
+    ],
+    skills: [
+      'Next.js',
+      'Material UI',
+      'Materialize',
+      'NestJS',
+      'Node.js',
+      'MariaDB',
+      'AWS',
+      'S3',
     ]
   },
   {
@@ -67,6 +113,22 @@ export const work = [
         project: 'Tastybones NFT',
         link: 'https://tastybones.xyz/'
       },
+    ],
+    skills: [
+      'Next.js',
+      'Tailwind CSS',
+      'NestJS',
+      'Postgres',
+      'AWS',
+      'IPFS',
+      'Ethereum',
+      'Solidity',
+      'Hardhat',
+      'Smart Contracts',
+      'React',
+      'Vue.js',
+      'React Native',
+      'Draw.io'
     ]
   },
   {
@@ -92,6 +154,15 @@ export const work = [
         project: 'Reactnews Deal Tracker Mobile App',
         link: 'https://greenstreetnews.com/deal-tracker/'
       }
+    ],
+    skills: [
+      'Next.js',
+      'NestJS',
+      'Postgres',
+      'AWS',
+      'React',
+      'React Native',
+      'Fastlane',
     ]
   },
   {
@@ -123,6 +194,15 @@ export const work = [
         project: 'mWallet',
         link: 'https://www.proximax.ltd/en/solutions/mwallet'
       },
+    ],
+    skills: [
+      'Angular',
+      'Ionic',
+      'IPFS',
+      'AWS',
+      'Blockchain',
+      'NestJS',
+      'MongoDB',
     ]
   },
   {
@@ -141,7 +221,16 @@ export const work = [
       'Developed websites for NEM clients, partners, etc.',
       'Ensure good quality of the outcome of the projects.',
     ],
-    projects: []
+    projects: [],
+    skills: [
+      'Angular',
+      'Ionic',
+      'IPFS',
+      'AWS',
+      'Blockchain',
+      'NestJS',
+      'MongoDB',
+    ]
   },
   {
     title: "Donor.com Software Solutions",
@@ -157,7 +246,11 @@ export const work = [
       'Ensure good quality of the outcome of the projects.',
       'Keep track of all projects, progress and outcomes.',
     ],
-    projects: []
+    projects: [],
+    skills: [
+      'PHP',
+      'CodeIgniter',
+    ]
   },
   {
     title: "California Clothing, Inc. (Guess? Philippines)",
@@ -173,6 +266,10 @@ export const work = [
       'Administer and maintain the application servers on a daily basis to have a stable system infrastructure within the organization.',
       'Support employees within HQ and outside of HQ with their queries regarding the internal applications.',
     ],
-    projects: []
+    projects: [],
+    skills: [
+      'PHP',
+      'CodeIgniter',
+    ]
   },
 ]
