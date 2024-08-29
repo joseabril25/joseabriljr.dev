@@ -25,8 +25,8 @@ export const projects = [
         link: 'https://gigbridgelabs.com/'
       },
       {
-        title: 'GBL App (Coming soon)',
-        link: ''
+        title: 'GBL App',
+        link: 'https://app.gigbridgelabs.com/'
       },
     ],
     skills: [
