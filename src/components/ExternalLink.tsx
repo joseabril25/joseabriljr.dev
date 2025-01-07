@@ -2,7 +2,7 @@ import Image from 'next/image';
 import { Suspense } from 'react';
 import { ArrowIcon } from './ArrowIcon';
 
-export const ExternalLink = ({ img, link, name }: {img: string, link: string, name: string}) => {
+export const ExternalLink = ({ img, link, name, width, height }: {img: string, link: string, name: string, width?: number, height?: number}) => {
   return (
     <div className="group flex w-full">
       <a
@@ -15,8 +15,8 @@ export const ExternalLink = ({ img, link, name }: {img: string, link: string, na
             <Image
               alt={name}
               src={img}
-              height={64}
-              width={264}
+              height={height ?? 64}
+              width={width ?? 264}
               sizes="33vw"
               className="w-32"
               priority

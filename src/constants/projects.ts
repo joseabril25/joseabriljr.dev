@@ -14,6 +14,47 @@ export interface Work {
 
 export const projects = [
   {
+    title: "Favour - DIY Meal Kit",
+    date: "2024-2025",
+    description: `A startup in New Zealand that is focusing on giving a personalized meal kit experience to their customers. I was onboarded as a CTO to help the company with their digital transformation.
+     I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.`,
+    links: [
+      {
+        title: 'Favour Website',
+        link: 'https://tryfavour.com/'
+      },
+      {
+        title: 'Favour iOS App',
+        link: 'https://apps.apple.com/nz/app/favour-nzs-diy-meal-kit/id6443841594'
+      },
+      {
+        title: 'Favour Android App',
+        link: 'https://play.google.com/store/apps/details?id=com.foodme.app'
+      },
+    ],
+    skills: [
+    {
+      title: 'React-Native',
+      link: 'https://reactnative.dev/'
+    },
+    {
+      title: 'Django',
+      link: 'https://www.djangoproject.com/'
+    },
+    {
+      title: 'AWS',
+      link: 'https://aws.amazon.com/'
+    },
+    {
+      title: 'Python',
+      link: 'https://www.python.org/'
+    },
+    {
+      title: 'OpenAI',
+      link: 'https://openai.com/'
+    },]
+  },
+  {
     title: "Gig Bridge Labs",
     date: "2024",
     description: `A personal project that I am currently working on. It is a personalized learning platform to help professionals transition into in-demand tech careers using AI.

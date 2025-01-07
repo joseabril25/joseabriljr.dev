@@ -12,7 +12,7 @@ export default function Page() {
         hey, I&rsquo;m Jose 👋
       </h1>
       <p className="prose prose-neutral dark:prose-invert">
-        I am a software engineer, former startup founder, and lifelong learner. I have been a software engineer for over 7 years. 
+        I am a software engineer, a startup founder, and lifelong learner. I have been a software engineer for over 7 years. 
         I am currently finishing my Master&rsquo;s Degree in Software Engineering here in Auckland, New Zealand. I am studying part-time
         at Yoobee College of Creative Innovation. And I am currently exploring deeply into the world of Machine Learning, Artificial Intelligence and Data Science.
       </p>
@@ -29,21 +29,28 @@ export default function Page() {
                Backdrop Build 
             </Badge>
           </span>
-          program. It is a program that helps developers build their own startups. I am currently working on a project called
+          program. It is a program that helps developers build their own startups. 
+        </p>
+      </div>
+      <div className="prose prose-neutral dark:prose-invert mt-5">
+        <p>
+          I am currently working on 
           <span className="not-prose">
-            <Badge href="https://gigbridgelabs.com/">
-              Gig Bridge Labs
+            <Badge href="https://tryfavour.com/">
+              Favour - DIY Meal Kit
             </Badge>
           </span>
-          . It is a personalized learning platform to help professionals transition into in-demand tech careers. Get the skills and support you need to succeed in the tech industry.
+          . It is a personalized meal kit to help busy mums and professionals with their meal planning. I am the CTO of the company and I am responsible for the overall technology strategy to support business objectives.
         </p>
       </div>
       <h3 className="mt-5">Here are some notable projects that I&rsquo;ve worked on and currently working on:</h3>
       <div className="my-8 flex w-full flex-col space-x-0 space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
         <ExternalLink
-          img='/images/projects/gbl.png'
-          name="Gig Bridge Labs"
-          link="https://gigbridgelabs.com/"
+          img='/images/projects/favour.png'
+          name="Favour"
+          link="https://tryfavour.com/"
+          width={465}
+          height={64}
         />
         <ExternalLink
           img='/images/projects/calena.png'
@@ -52,6 +59,11 @@ export default function Page() {
         />
       </div>
       <div className="my-8 flex w-full flex-col space-x-0 space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
+        <ExternalLink
+          img='/images/projects/gbl.png'
+          name="Gig Bridge Labs"
+          link="https://gigbridgelabs.com/"
+        />
         <ExternalLink
           img='/images/projects/webmint.png'
           name="webmint"

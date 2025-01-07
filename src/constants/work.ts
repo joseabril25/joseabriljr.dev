@@ -14,6 +14,47 @@ export interface Work {
 
 export const work = [
   {
+    title: "Favour - DIY Meal Kit",
+    role: "CTO",
+    description: "I was onboarded as a CTO to help the company with their digital transformation. I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.",
+    link: "https://www.tryfavour.com/",
+    logo: "/vercel-logo.svg",
+    logoWidth: 13,
+    logoHeight: 11,
+    dates: 'Dec 2023 - May 2024',
+    desc: [
+      'Lead Technology Strategy: Develop and execute the technology roadmap in alignment with DIY Meal Kit’s business objectives, ensuring scalability and innovation.',
+      'Maintain Application: Oversee the maintenance of the mobile app, backend systems, and infrastructure to ensure smooth operation and reliability.',
+      'Develop New Features: Continuously enhance the app by developing new features that attract more users and improve engagement.',
+      'AI Integration: Collaborate with the team to implement AI technologies, including recipe importing and data-driven product mapping, into the app.',
+      "Developed the mobile app using React Native and Tailwind CSS.",
+      'Data Reliability: Ensure the accuracy and reliability of data gathered from users, providing actionable insights for product enhancements.',
+      'Team Leadership: Lead and mentor the engineering team, fostering a culture of innovation, collaboration, and excellence.',
+      'Collaboration with CEO: Work directly with the CEO to develop and implement innovative features and product improvements aligned with DIY Meal Kit’s vision.',
+      'System Architecture: Design and implement robust system architecture to support the app’s growth, security, and performance.',
+      "Vendor and Partnership Management: Oversee API integrations with supermarkets and manage relationships with third-party vendors.",
+      "Resource Management: Manage the tech team’s resources, timelines, and budget to ensure efficient project delivery"
+    ],
+    projects: [
+      {
+        project: 'Favour Mobile App',
+        link: 'https://www.tryfavour.com/'
+      },
+    ],
+    skills: [
+      'React Native',
+      'Django',
+      'Lambda Functions',
+      'AWS API GATEWAY',
+      'Serverless Framework',
+      'MySQL',
+      'AWS',
+      'S3',
+      'EC2',
+      'RDS',
+    ]
+  },
+  {
     title: "Caléna",
     role: "CTO",
     description: "I was hired as a CTO to help the company with their digital transformation. I was tasked to build and design the architecture of the whole system including web, mobile, APIs and backend. I was responsible for the overall technology strategy to support business objectives.",
