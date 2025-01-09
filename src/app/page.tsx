@@ -12,7 +12,7 @@ export default function Page() {
         hey, I&rsquo;m Jose 👋
       </h1>
       <p className="prose prose-neutral dark:prose-invert">
-        I am a software engineer, a startup founder, and lifelong learner. I have been a software engineer for over 7 years. 
+        I am a software engineer, a startup founder, and lifelong learner. I have been a software engineer for over 8 years. 
         I am currently finishing my Master&rsquo;s Degree in Software Engineering here in Auckland, New Zealand. I am studying part-time
         at Yoobee College of Creative Innovation. And I am currently exploring deeply into the world of Machine Learning, Artificial Intelligence and Data Science.
       </p>
