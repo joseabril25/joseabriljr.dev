@@ -23,24 +23,13 @@ export default function Page() {
       </div>
       <div className="prose prose-neutral dark:prose-invert mt-5">
         <p>
-          I have a strong passion for building efficient software solutions and helping other developers grow. I was recently invited to join the 
-          <span className="not-prose">
-            <Badge href="https://backdropbuild.com/builds/gig-bridge-labs">
-               Backdrop Build 
-            </Badge>
-          </span>
-          program. It is a program that helps developers build their own startups. 
-        </p>
-      </div>
-      <div className="prose prose-neutral dark:prose-invert mt-5">
-        <p>
-          I am currently working on 
+          I have a strong passion for building efficient software solutions and helping other developers grow. I am currently working on
           <span className="not-prose">
             <Badge href="https://tryfavour.com/">
               Favour - DIY Meal Kit
             </Badge>
-          </span>
-          . It is a personalized meal kit to help busy mums and professionals with their meal planning. I am the CTO of the company and I am responsible for the overall technology strategy to support business objectives.
+          </span> as the CTO.
+          It is a personalized meal kit to help busy mums and professionals with their meal planning. I am responsible for the overall technology strategy to support business objectives.
         </p>
       </div>
       <h3 className="mt-5">Here are some notable projects that I&rsquo;ve worked on and currently working on:</h3>
@@ -49,8 +38,11 @@ export default function Page() {
           img='/images/projects/favour.png'
           name="Favour"
           link="https://tryfavour.com/"
-          width={465}
-          height={64}
+        />
+        <ExternalLink
+          img=''
+          name="Artconex"
+          link="https://www.artconex.com/"
         />
         <ExternalLink
           img='/images/projects/calena.png'
