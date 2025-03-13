@@ -16,12 +16,12 @@ export const work = [
   {
     title: "Favour - DIY Meal Kit",
     role: "CTO",
-    description: "I was onboarded as a CTO to help the company with their digital transformation. I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.",
+    description: "I was onboarded as an Intern to help the company with their digital transformation and for me to be able to finish my Masters degree. I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.",
     link: "https://www.tryfavour.com/",
     logo: "/vercel-logo.svg",
     logoWidth: 13,
     logoHeight: 11,
-    dates: 'Dec 2023 - May 2024',
+    dates: 'Nov 2024 - Present',
     desc: [
       'Lead Technology Strategy: Develop and execute the technology roadmap in alignment with DIY Meal Kit’s business objectives, ensuring scalability and innovation.',
       'Maintain Application: Oversee the maintenance of the mobile app, backend systems, and infrastructure to ensure smooth operation and reliability.',
