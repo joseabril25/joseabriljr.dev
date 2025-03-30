@@ -59,7 +59,7 @@ export default function Page() {
         <ExternalLink
           img='/images/projects/webmint.png'
           name="webmint"
-          link="https://www.linkedin.com/company/webmint-io/"
+          link="https://x.com/webmint_io"
         />
         <ExternalLink
           img='/images/projects/payluy.png'

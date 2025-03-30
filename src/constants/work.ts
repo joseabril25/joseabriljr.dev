@@ -144,7 +144,7 @@ export const work = [
     projects: [
       {
         project: 'Webmint',
-        link: 'https://webmint.io/'
+        link: 'https://x.com/webmint_io'
       },
       {
         project: 'Approving Corgis NFT',

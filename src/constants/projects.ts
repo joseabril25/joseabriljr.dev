@@ -232,7 +232,7 @@ export const projects = [
       },
       {
         title: 'Webmint Website',
-        link: 'https://webmint.io/'
+        link: 'https://x.com/webmint_io'
       },
       {
         title: 'Webmint iOS',
