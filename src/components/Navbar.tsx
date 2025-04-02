@@ -10,6 +10,12 @@ const navItems = {
   '/projects': {
     name: 'projects',
   },
+  '/web3-projects': {
+    name: 'web3',
+  },
+  '/ai': {
+    name: 'ai',
+  },
   // '/blog': {
   //   name: 'blog',
   // },
