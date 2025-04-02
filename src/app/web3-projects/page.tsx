@@ -17,7 +17,7 @@ export default function Web3ProjectsPage() {
           My passion for web3 technology began at the intersection of innovation and possibility. As blockchain technology evolved beyond its financial roots, I saw an opportunity to build solutions that fundamentally transform how we verify authenticity, establish ownership, and create value in the digital realm.
         </p>
         <p className='mb-5'>
-          From developing NFT platforms that empower artists to retain control of their work, to building decentralized applications that serve real-world needs, my experience spans the full spectrum of web3 development. I've had the privilege of working with blockchain technology across multiple domains—from digital art marketplaces to financial services and conservation efforts.
+          From developing NFT platforms that empower artists to retain control of their work, to building decentralized applications that serve real-world needs, my experience spans the full spectrum of web3 development. I&apos;ve had the privilege of working with blockchain technology across multiple domains—from digital art marketplaces to financial services and conservation efforts.
         </p>
         <p className='mb-5'>
           What drives my enthusiasm for web3 is its potential to democratize access, establish verifiable trust, and create new paradigms for digital interaction. Each project represents not just technical implementation, but a step toward a more transparent, equitable, and accessible digital future.
