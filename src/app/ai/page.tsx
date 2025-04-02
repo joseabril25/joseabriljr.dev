@@ -1,9 +1,6 @@
 import type { Metadata } from 'next';
-import Link from 'next/link';
-import { projects } from '../../constants/projects';
 import { ProjectLink } from '../../components/ProjectLink';
 import { Badge } from '../../components/Badge';
-import { web3Projects } from '../../constants/web3-projects';
 import { aiProjects } from '../../constants/ai';
 
 export const metadata: Metadata = {
