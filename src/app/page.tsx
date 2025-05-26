@@ -12,9 +12,9 @@ export default function Page() {
         hey, I&rsquo;m Jose 👋
       </h1>
       <p className="prose prose-neutral dark:prose-invert">
-        I am a software engineer, a startup founder, and lifelong learner. I have been a software engineer for over 8 years. 
-        I am currently finishing my Master&rsquo;s Degree in Software Engineering here in Auckland, New Zealand. I am studying part-time
-        at Yoobee College of Creative Innovation. And I am currently exploring deeply into the world of Machine Learning, Artificial Intelligence and Data Science.
+        I&apos;m a software engineer who turns complex problems into elegant solutions. With over 8 years of experience building scalable SaaS platforms, 
+        I recently completed my Master&apos;s in Software Engineering at Yoobee College of Creative Innovation here in Auckland, New Zealand. 
+        Now I&apos;m diving deep into the exciting realms of Machine Learning, AI, and Data Science – because why stop learning when there&apos;s so much cool stuff to explore?
       </p>
       <div className="prose prose-neutral dark:prose-invert mt-5">
         <p>
@@ -23,16 +23,17 @@ export default function Page() {
       </div>
       <div className="prose prose-neutral dark:prose-invert mt-5">
         <p>
-          I have a strong passion for building efficient software solutions and helping other developers grow. I am currently working on
+          Currently, I&apos;m the CTO at{" "}
           <span className="not-prose">
             <Badge href="https://tryfavour.com/">
               Favour - DIY Meal Kit
             </Badge>
-          </span> as the CTO.
-          It is a personalized meal kit to help busy mums and professionals with their meal planning. I am responsible for the overall technology strategy to support business objectives.
+          </span>,
+          where I&apos;m leading the tech charge to revolutionize how busy families and professionals approach meal planning. I architect Python/Django backends in an AWS environment, craft React/React Native & Vue.js frontends, and integrate AI to make our platform smarter every day.
+          It&apos;s like building a digital sous chef that actually understands what you want for dinner!
         </p>
       </div>
-      <h3 className="mt-5">Here are some notable projects that I&rsquo;ve worked on and currently working on:</h3>
+      <h3 className="mt-5">My journey has taken me through some fascinating projects:</h3>
       <div className="my-8 flex w-full flex-col space-x-0 space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
         <ExternalLink
           img='/images/projects/favour.png'
@@ -69,26 +70,19 @@ export default function Page() {
       </div>
       <div className="prose prose-neutral dark:prose-invert mt-5">
         <p>
-          Beyond my professional <Link href='/work'>work</Link>, I love sharing knowledge and helping other developers grow. 
-          Over the years, I&rsquo;ve had the opportunity to work with and advise companies on web development, blockchain integration, and building efficient software solutions.
-        </p>
-      </div>
-      {/* <div className="my-8 flex w-full flex-col space-y-4">
-        <BlogLink
-          name="What Makes A Great Developer Experience?"
-          slug="developer-experience"
-        />
-        <BlogLink name="What is Developer Relations?" slug="devrel" />
-        <BlogLink name="The Story of Heroku" slug="heroku" />
-      </div> */}
-      <div className="prose prose-neutral dark:prose-invert mt-5">
-        <p>
-          I believe in the power of continuous learning and community collaboration.
+          I&apos;m passionate about Web3 and AI, AWS cloud architecture, serverless computing, and building APIs that just work.
+          My tech stack spans from Python/Django and Node.js to React, Next.js, Vue.js and beyond. I believe great code should be clean, scalable, and – dare I say it – beautiful.
         </p>
       </div>
       <div className="prose prose-neutral dark:prose-invert mt-5">
         <p>
-          Feel free to explore my projects, read my blog, or get in touch if you&rsquo;d like to collaborate on something exciting!
+          Beyond writing code, I love empowering other developers and sharing knowledge with the community. Whether it&apos;s blockchain integration,
+          cloud architecture, or just figuring out why that one test keeps failing, I&apos;m always up for a good tech challenge and collaboration.
+        </p>
+      </div>
+      <div className="prose prose-neutral dark:prose-invert mt-5">
+        <p>
+          Want to build something amazing together? Let&apos;s talk! 🚀
         </p>
       </div>
     </section>

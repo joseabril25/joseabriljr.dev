@@ -16,7 +16,7 @@ export const work = [
   {
     title: "Favour - DIY Meal Kit",
     role: "CTO",
-    description: "I was onboarded as an Intern to help the company with their digital transformation and for me to be able to finish my Masters degree. I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.",
+    description: "I was hired to help the company with their digital transformation and for me to be able to finish my Masters degree. I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.",
     link: "https://www.tryfavour.com/",
     logo: "/vercel-logo.svg",
     logoWidth: 13,
@@ -44,49 +44,13 @@ export const work = [
     skills: [
       'React Native',
       'Django',
-      'Lambda Functions',
-      'AWS API GATEWAY',
+      'OpenAI',
+      'AWS Lambda',
+      'AWS API Gateway',
       'Serverless Framework',
       'MySQL',
-      'AWS',
-      'S3',
       'EC2',
-      'RDS',
-    ]
-  },
-  {
-    title: "Caléna",
-    role: "CTO",
-    description: "I was hired as a CTO to help the company with their digital transformation. I was tasked to build and design the architecture of the whole system including web, mobile, APIs and backend. I was responsible for the overall technology strategy to support business objectives.",
-    link: "https://calena.com.au/",
-    logo: "/vercel-logo.svg",
-    logoWidth: 13,
-    logoHeight: 11,
-    dates: 'Dec 2023 - May 2024',
-    desc: [
-      'Designed the whole system architecture.',
-      'Developed the web app dashboard using Next.js and Material UI.',
-      'Developed the API using NestJS.',
-      'Designed and developed the database using MongoDB.',
-      "Developed the mobile app using React Native and Tailwind CSS.",
-      'Deployed the app to AWS.'
-    ],
-    projects: [
-      {
-        project: 'Gaming Hub Internal Tools',
-        link: ''
-      },
-    ],
-    skills: [
-      'Next.js',
-      'Material UI',
-      'NestJS',
-      'MongoDB',
-      'React Native',
-      'Tailwind CSS',
-      'AWS',
       'S3',
-      'EC2',
       'RDS',
     ]
   },
@@ -115,7 +79,6 @@ export const work = [
     skills: [
       'Next.js',
       'Material UI',
-      'Materialize',
       'NestJS',
       'Node.js',
       'MariaDB',
@@ -158,18 +121,17 @@ export const work = [
     skills: [
       'Next.js',
       'Tailwind CSS',
+      'React',
+      'Vue.js',
       'NestJS',
       'Postgres',
+      'MongoDB',
       'AWS',
       'IPFS',
       'Ethereum',
       'Solidity',
       'Hardhat',
-      'Smart Contracts',
-      'React',
-      'Vue.js',
       'React Native',
-      'Draw.io'
     ]
   },
   {

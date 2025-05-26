@@ -33,26 +33,27 @@ export const projects = [
       },
     ],
     skills: [
-    {
-      title: 'React-Native',
-      link: 'https://reactnative.dev/'
-    },
-    {
-      title: 'Django',
-      link: 'https://www.djangoproject.com/'
-    },
-    {
-      title: 'AWS',
-      link: 'https://aws.amazon.com/'
-    },
-    {
-      title: 'Python',
-      link: 'https://www.python.org/'
-    },
-    {
-      title: 'OpenAI',
-      link: 'https://openai.com/'
-    },]
+      {
+        title: 'React-Native',
+        link: 'https://reactnative.dev/'
+      },
+      {
+        title: 'Django',
+        link: 'https://www.djangoproject.com/'
+      },
+      {
+        title: 'AWS',
+        link: 'https://aws.amazon.com/'
+      },
+      {
+        title: 'Python',
+        link: 'https://www.python.org/'
+      },
+      {
+        title: 'OpenAI',
+        link: 'https://openai.com/'
+      },
+    ]
   },
   {
     title: "Artconex",
@@ -65,46 +66,46 @@ export const projects = [
       },
     ],
     skills: [
-    {
-      title: 'Next.js',
-      link: 'https://nextjs.org/'
-    },
-    {
-      title: 'NestJS',
-      link: 'https://nestjs.com/'
-    },
-    {
-      title: 'shadcn/ui',
-      link: 'https://ui.shadcn.com/'
-    },
-    {
-      title: 'OpenAI',
-      link: 'https://openai.com/'
-    },
-    {
-      title: 'Vercel',
-      link: 'https://vercel.com/'
-    },
-    {
-      title: 'Tailwind CSS',
-      link: 'https://tailwindcss.com/'
-    },
-    {
-      title: 'AWS',
-      link: 'https://aws.amazon.com/'
-    },
-    {
-      title: 'S3',
-      link: 'https://aws.amazon.com/s3/'
-    },
-    {
-      title: 'EC2',
-      link: 'https://aws.amazon.com/ec2/'
-    },
-    {
-      title: 'RDS',
-      link: 'https://aws.amazon.com/rds/'
-    }]
+      {
+        title: 'Next.js',
+        link: 'https://nextjs.org/'
+      },
+      {
+        title: 'NestJS',
+        link: 'https://nestjs.com/'
+      },
+      {
+        title: 'shadcn/ui',
+        link: 'https://ui.shadcn.com/'
+      },
+      {
+        title: 'OpenAI',
+        link: 'https://openai.com/'
+      },
+      {
+        title: 'Vercel',
+        link: 'https://vercel.com/'
+      },
+      {
+        title: 'Tailwind CSS',
+        link: 'https://tailwindcss.com/'
+      },
+      {
+        title: 'AWS',
+        link: 'https://aws.amazon.com/'
+      },
+      {
+        title: 'S3',
+        link: 'https://aws.amazon.com/s3/'
+      },
+      {
+        title: 'EC2',
+        link: 'https://aws.amazon.com/ec2/'
+      },
+      {
+        title: 'RDS',
+        link: 'https://aws.amazon.com/rds/'
+      }]
   },
   {
     title: "Gig Bridge Labs",
