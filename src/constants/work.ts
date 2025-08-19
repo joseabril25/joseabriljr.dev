@@ -15,7 +15,7 @@ export interface Work {
 export const work = [
   {
     title: "Favour - DIY Meal Kit",
-    role: "CTO",
+    role: "Senior Software Engineer",
     description: "I was hired to help the company with their digital transformation and for me to be able to finish my Masters degree. I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.",
     link: "https://www.tryfavour.com/",
     logo: "/vercel-logo.svg",

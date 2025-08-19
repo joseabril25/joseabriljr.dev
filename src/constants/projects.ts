@@ -16,7 +16,7 @@ export const projects = [
   {
     title: "Favour - DIY Meal Kit",
     date: "2024-Present",
-    description: `A startup in New Zealand that is focusing on giving a personalized meal kit experience to their customers. I was onboarded as a CTO to help the company with their digital transformation.
+    description: `A startup in New Zealand that is focusing on giving a personalized meal kit experience to their customers. I was onboarded as a Senior Software Engineer to help the company with their digital transformation.
      I was tasked to continue building the platform and help the company scale. I was responsible for the overall technology strategy to support business objectives. Lead the development of the platform.`,
     links: [
       {

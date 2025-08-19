@@ -12,7 +12,7 @@ export default function AiPage() {
   return (
     <section>
       <h1 className="font-medium text-2xl mb-8 tracking-tighter">powered by ai</h1>
-      <div className="prose prose-neutral dark:prose-invert">
+      <div className="prose prose-neutral prose-invert">
         <p className='mb-5'>
           AI isn&apos;t just about complex algorithms or theoretical concepts for me—it&apos;s about creating tangible improvements in people&apos;s daily lives. I&apos;m passionate about bridging the gap between cutting-edge technology and practical applications that solve real problems people face every day.
         </p>
@@ -28,11 +28,11 @@ export default function AiPage() {
         <p className='mb-5'>
           Below are some key AI-focused projects that showcase how I&apos;m working to bring this vision to life, demonstrating my commitment to creating AI solutions that are practical, accessible, and transformative for everyday experiences.
         </p>
-        <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
+        <hr className="my-6 border-neutral-800" />
         {aiProjects.map((project: any) => (
           <div key={project.title}>
             <h2 className="font-medium text-xl mb-1 tracking-tighter">{project.title}</h2>
-            <p className="text-neutral-600 dark:text-neutral-400 text-sm">{project.date}</p>
+            <p className="text-neutral-400 text-sm">{project.date}</p>
             <p className='mt-5'>{project.description}</p>
             <div className="my-8 flex w-full flex-col space-x-0 space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
               {project.links.map((link: any) => (
@@ -51,7 +51,7 @@ export default function AiPage() {
                 ))
               }
             </div>
-            <hr className="my-6 border-neutral-100 dark:border-neutral-800" />
+            <hr className="my-6 border-neutral-800" />
           </div>
         ))}
       </div>
