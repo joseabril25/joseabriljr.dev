@@ -43,7 +43,7 @@ export default function Page() {
         <ExternalLink
           img=''
           name="Artconex"
-          link="https://www.artconex.com/"
+          link="https://artconex-next-fe.vercel.app/"
         />
         <ExternalLink
           img='/images/projects/calena.png'

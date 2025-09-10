@@ -62,7 +62,7 @@ export const projects = [
     links: [
       {
         title: 'Artconex Website',
-        link: 'https://artconex.com/'
+        link: 'https://artconex-next-fe.vercel.app/'
       },
     ],
     skills: [
